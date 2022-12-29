@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there :tada:
 
-<!--
-**danvitmac/danvitmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Eu sou o Daniel Vituino Machado, sou Dev Front-End, recentemente aprendi e criei projetos com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+- <a href="https://pt.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"></a>
+- <a href="https://pt.wikipedia.org/wiki/CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"></a>
+
+<br>
+e iniciando cursos em:
+
+<br>
+<br>
+
+- <a href="https://pt.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript-logo"></a>
+- <a href="https://pt.wikipedia.org/wiki/React_(JavaScript)"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-logo"></a>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danvitmac)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvitmac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
