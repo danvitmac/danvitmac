@@ -2,7 +2,7 @@
 
 <br>
 
-Eu sou o Daniel Vituino Machado, sou Dev Front-End, recentemente aprendi e criei projetos com:
+<h2>Eu sou o Daniel Vituino Machado, sou Dev Front-End, recentemente aprendi e criei projetos com:</h2>
 
 <br>
 
