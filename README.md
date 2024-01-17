@@ -15,6 +15,14 @@
 - ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 <br>
 
+### Vamos nos conectar?
+[![GitHub](https://img.shields.io/badge/-1?style=social&logo=github)](https://github.com/danvitmac)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/linkedin.com/in/devdanielmachado//)
+[![WhatsApp](https://img.shields.io/badge/-25D366?style=social&logo=whatsapp)](https://wa.me/+351939467926)
+[![Instagram](https://img.shields.io/badge/-23E4405F?style=social&logo=instagram)](https://www.instagram.com/dan.viturino.machado/)
+[![Facebook](https://img.shields.io/badge/-1?style=social&logo=facebook)](https://www.facebook.com/daniel.viturinomachado/)
+[![Gmail](https://img.shields.io/badge/-333333?style=social&logo=gmail&logoColor=red)](mailto:daniel.atdr@gmail.com)
+
 
 
 
